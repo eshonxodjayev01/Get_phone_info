@@ -4,5 +4,5 @@
 ![image](https://github.com/eshonxodjayev01/Get_phone_info/assets/93433600/4f06fea3-d822-4aa3-a5b9-1d42898601ab)
 
 
-# Get_phone_info
+#interesting_porjects
 You can get any phone info from python
